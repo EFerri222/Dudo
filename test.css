@@ -1,0 +1,13 @@
+h1 {
+    color: red;
+  }
+
+ 
+canvas {
+    border:1px solid #000000;
+  }
+
+
+  .hidden {
+    display : none;
+  }
